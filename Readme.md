@@ -28,7 +28,6 @@ Bubble-Game/
 │── index.html       # Main game page
 │── style.css        # Styling for the game
 │── script.js        # Game logic and interactivity
-└── assets/          # Images, sounds, and other assets
 ```
 
 ## 📜 How to Run the Game
